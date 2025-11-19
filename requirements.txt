@@ -1,0 +1,11 @@
+SpeechRecognition
+google-cloud-speech
+pyautogui
+dotenv
+keyboard
+cv2
+opencv-python
+mediapipe
+pywin32
+julep
+pyyaml
